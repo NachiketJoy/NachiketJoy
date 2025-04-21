@@ -43,7 +43,7 @@ ${\color{#AC3097}Testing \space Frameworks: }$
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/NachiketJoy/top-langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketJoy&layout=compact&langs_count=8&card_width=380" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketJoy&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🤝 Connect with me!
