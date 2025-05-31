@@ -3,38 +3,47 @@
 ![](https://komarev.com/ghpvc/?username=NachiketJoy&color=blue&style=flat-square)
 
 ## ✨ Introduction
-### $${\color{#56565E}Bonjour! \space Hello! \space Hola! \space Namaste! }$$
+<!-- ### $${\color{#56565E}Bonjour! \space Hello! \space Hola! \space Namaste! }$$ -->
+### $${Bonjour! \space Hello! \space Hola! \space Namaste! }$$
+
 I'm Nachiket, a frontend enthusiast with a passion for building fast, responsive websites. When I'm not coding, you'll find me mastering FIFA, tinkering with designs and woodworking projects, or admiring the engineering brilliance of cars. Currently diving into mobile app development, cloud architecture, and DevOps to broaden my tech horizons.
 
 ## 🛠️ Developer stack
-${\color{`#AC3097`}Programming \space Languages: }$
+<!-- ${\color{#AC3097}Programming \space Languages: }$ -->
+${Programming \space Languages: }$
 
 ![My Skills](https://skillicons.dev/icons?i=kotlin,js,ts,html,css&theme=light)
 
-${\color{#AC3097}Frameworks: }$
+<!-- ${\color{#AC3097}Frameworks: }$ -->
+${Frameworks: }$
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,bootstrap&theme=light)
 
-${\color{#AC3097}Libraries: }$
+<!-- ${\color{#AC3097}Libraries: }$ -->
+${Libraries: }$
 
 ![My Skills](https://skillicons.dev/icons?i=styledcomponents&theme=light)
 <img src="https://github.com/user-attachments/assets/45c7f0d9-5e0a-4cef-9c61-eae8fdf63230" alt="SCSS" width="50px">
 
-${\color{#AC3097}Databases: }$
+<!--${\color{#AC3097}Databases: }$ -->
+${Databases: }$
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)
 <img src="https://github.com/user-attachments/assets/145ac600-2459-4bda-8136-a11d3d7a7972" alt="SCSS" width="45px">
 <img src="https://github.com/user-attachments/assets/cb7b8031-df11-48ce-ba92-d79ff93aa2f5" alt="SCSS" width="40px">
 
-${\color{#AC3097}Tools: }$
+<!-- ${\color{#AC3097}Tools: }$ -->
+${Tools: }$
 
 ![My Skills](https://skillicons.dev/icons?i=docker,git,androidstudio,vscode&theme=light)
 
-${\color{#AC3097}Design \space Tools: }$
+<!-- ${\color{#AC3097}Design \space Tools: }$ -->
+${Design \space Tools: }$
 
 ![My Skills](https://skillicons.dev/icons?i=xd,figma&theme=light)
 
-${\color{#AC3097}Testing \space Frameworks: }$
+<!-- ${\color{#AC3097}Testing \space Frameworks: }$ -->
+${Testing \space Frameworks: }$
 
 <img src="https://github.com/user-attachments/assets/07ed6175-296f-4e8a-b2c2-e13b3ed0d830" alt="SCSS" width="47px">
 
