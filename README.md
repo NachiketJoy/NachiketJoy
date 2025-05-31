@@ -7,7 +7,7 @@
 I'm Nachiket, a frontend enthusiast with a passion for building fast, responsive websites. When I'm not coding, you'll find me mastering FIFA, tinkering with designs and woodworking projects, or admiring the engineering brilliance of cars. Currently diving into mobile app development, cloud architecture, and DevOps to broaden my tech horizons.
 
 ## 🛠️ Developer stack
-${\color{#AC3097}Programming \space Languages: }$
+${\color{`#AC3097`}Programming \space Languages: }$
 
 ![My Skills](https://skillicons.dev/icons?i=kotlin,js,ts,html,css&theme=light)
 
