@@ -4,7 +4,7 @@
 
 ## ✨ Introduction
 <!-- ### $${\color{#56565E}Bonjour! \space Hello! \space Hola! \space Namaste! }$$ -->
-### $${Bonjour! \space Hello! \space Hola! \space Namaste! }$$
+### $${Bonjour! \space Hello!}$$
 
 I'm Nachiket, a frontend enthusiast with a passion for building fast, responsive websites. When I'm not coding, you'll find me mastering FIFA, tinkering with designs and woodworking projects, or admiring the engineering brilliance of cars. Currently diving into mobile app development, cloud architecture, and DevOps to broaden my tech horizons.
 
